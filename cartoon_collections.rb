@@ -23,6 +23,6 @@ def find_the_cheese(array_of_strings)
     if cheese_types.include?(string)
       return string
     end
-    puts "ok"
   end
+  puts "ok"
 end
