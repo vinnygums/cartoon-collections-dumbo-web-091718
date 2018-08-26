@@ -24,5 +24,5 @@ def find_the_cheese(array_of_strings)
       return string
     end
   end
-  puts "ok"
+  puts "no cheese"
 end
